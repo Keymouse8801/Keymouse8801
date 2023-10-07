@@ -1,10 +1,5 @@
-/play secret►
-- 👋 Hi, I’m @Keymouse8801
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-<!---
-Keymouse8801/Keymouse8801 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, my name is Gerasim
+- 👀 I’m interested in learning about coding
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on anyhting
+- 📫 You can't reach me!
