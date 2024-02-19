@@ -1,5 +1,5 @@
-- 👋 Hi, my name is Gerasim
-- 👀 I’m interested in learning about coding
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on anyhting
-- 📫 You can't reach me!
+- 👋 Hi, my name is Gero.
+- 👀 I'm from Bulgaria and live in Sofia.
+- 🌱 I love pizza!!
+- 💞️ I hate math!
+- 📫 Currently I'm learning Python.
