@@ -5,4 +5,4 @@
 - 📫 Currently I'm learning Python.
 
 
-![enter image description here](https://static.scientificamerican.com/sciam/cache/file/3198624E-C54D-458C-BB35B9DECED8F27D_source.jpg?w=1200)
+![Its weed to meet you!](https://static.scientificamerican.com/sciam/cache/file/3198624E-C54D-458C-BB35B9DECED8F27D_source.jpg?w=1200)
