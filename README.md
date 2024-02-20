@@ -3,3 +3,6 @@
 - 🌱 I love pizza!!
 - 💞️ I hate math!
 - 📫 Currently I'm learning Python.
+
+
+![enter image description here](https://static.scientificamerican.com/sciam/cache/file/3198624E-C54D-458C-BB35B9DECED8F27D_source.jpg?w=1200)
