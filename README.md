@@ -5,4 +5,4 @@
 - 📫 Currently I'm learning Python.
 
 
-![Its weed to meet you!](https://static.scientificamerican.com/sciam/cache/file/3198624E-C54D-458C-BB35B9DECED8F27D_source.jpg?w=1200)
+![enter image description here](https://i.guim.co.uk/img/static/sys-images/Guardian/Archive/Search/2012/9/27/1348743197978/Jim-Carrey-in-Dumb-and-Du-010.jpg?width=465&dpr=1&s=none)
