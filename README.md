@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Gero.
-- 👀 I'm from Bulgaria and live in Sofia.
+- 👀 I'm from Sofia <Bulgaria>
 - 🌱 I love pizza!!
 - 💞️ I hate math!
 - 📫 Currently I'm learning Python.
