@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Gero.
+- 👋 Hi, welcome to my Github.
 - 👀 I'm from Sofia <Bulgaria>
 - 🌱 I love pizza!!
 - 💞️ I hate math!
